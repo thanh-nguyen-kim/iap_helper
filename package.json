@@ -1,0 +1,15 @@
+{
+  "name": "com.setik.iaphelper",
+  "version": "1.0.0",
+  "displayName": "IAP Helper",
+  "description": "This is an utility package from setik for Unity IAP. After a game crash, It processes IAP purchased transaction when user reopen it",
+  "unity": "2019.4",
+  "unityRelease": "8f1",
+  "keywords": [],
+  "author": {
+    "name": "setik",
+    "email": "thanhnguyenkim12@gmail.com",
+    "url": "https://killertee.wordpress.com/about/"
+  },
+  "type": "tool"
+}

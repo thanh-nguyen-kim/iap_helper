@@ -1,0 +1,16 @@
+{
+  "packs": [
+    {
+      "id": "com.setik.ruby1",
+      "price": 1.99,
+      "lifeTime": 259200,
+      "rubyAmount": 110
+    },
+    {
+      "id": "com.setik.ruby2",
+      "price": 2.99,
+      "lifeTime": 259200,
+      "rubyAmount": 180
+    }
+  ]
+}
